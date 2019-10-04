@@ -1,0 +1,10 @@
+.idea
+.vscode
+node_modules
+config.js
+
+config/config.json
+build
+
+ptn/*
+src/Base/Db

@@ -1,0 +1,24 @@
+module.exports = {
+    port: 1234,
+    db: {
+        name: 'eapub',
+        user: 'eapub',
+        password: 'asdasfasfasf'
+    },
+    env: 'dev',
+    updateProjectFreq: 10, // Интервал обновления пироектов в секундах
+    mail: {
+        host: 'smtp.mailtrap.io',
+        port: 25,
+        secure: false,
+        user: 'bcfae2b1089399',
+        password: '4be6588d5ed3dd',
+        sender: 'eapub@onlanta.ru',
+    },
+    fileDir: 'files',
+    siteurl: 'eapub.local',
+    clientsiteurl: 'eapub-client.local',
+    mailfrom: 'no-reply@eapub.oncloud.ru',
+    secret: 'GENERATE THIS SECRET, PLEASE',
+    vmTemplatePassword: 'bfge,1001',
+}

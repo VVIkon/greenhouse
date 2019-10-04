@@ -1,0 +1,28 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "semicolon": {
+            "options": "never"
+        },
+        "quotemark": {
+            "options": "single"
+        },
+        "object-literal-sort-keys": false,
+        "ordered-imports": false,
+        "no-console": false,
+        "arrow-parens": false,
+        "align": false,
+        "max-line-length": false,
+        "no-bitwise": false
+    },
+    "rulesDirectory": [],
+    "linterOptions": {
+        "exclude": [
+            "src/routines.ts"
+        ]
+    }
+}
