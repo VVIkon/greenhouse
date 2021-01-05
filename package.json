@@ -6,7 +6,7 @@
         "@types/qs": "^6.5.3",
         "@types/rpio": "0.0.2",
         "@types/sequelize": "^4.27.49",
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "connect-multiparty": "^2.1.1",
         "express": "^4.16.3",
         "node-helper": "^0.1.1",
