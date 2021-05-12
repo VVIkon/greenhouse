@@ -10,7 +10,7 @@
         "connect-multiparty": "^2.1.1",
         "express": "^4.16.3",
         "node-helper": "^0.1.1",
-        "nodemailer": "^4.6.8",
+        "nodemailer": "^6.4.16",
         "raspi": "^6.0.1",
         "rpio": "^1.0.13",
         "sequelize": "^4.44.3",
